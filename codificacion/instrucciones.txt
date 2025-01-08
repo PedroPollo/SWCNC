@@ -1,0 +1,17 @@
+Para la instalacion del proyecto es necesario que el 
+sistema en el que se quiere instalar tenga instala 
+"python3", antes de realizar la instalacion actualice o instale la ultima version de "python3"
+
+<------ Instrucciones para Windows -------->
+Para realizar la instalacion es necesario abrir una terminal en la carpeta en donde se 
+encuentra el archivo "instalador_windows.py" para realizar la instalacion ejecute 
+el comando "python3 instalador_macos.py" esto generara un archivo .command en el
+escritorio, para iniciar la aplicacion solo se necesita hacer doble click para que 
+comience a ejecutarse
+
+<------ Instrucciones para MacOs -------->
+Para realizar la instalacion es necesario abrir una terminal en la carpeta en donde se 
+encuentra el archivo "instalador_macos.py" para realizar la instalacion ejecute 
+el comando "python3 instalador_macos.py" esto generara un archivo .command en el
+escritorio, para iniciar la aplicacion solo se necesita hacer doble click para que 
+comience a ejecutarse
